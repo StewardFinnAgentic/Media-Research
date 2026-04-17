@@ -22,7 +22,9 @@
 ### Situational Crisis Communication Theory (SCCT)
 - **Coombs, W.T. (2007).** Protecting organization reputations during a crisis: The development and application of situational crisis communication theory. *Corporate Reputation Review, 10*(3), 163–176.  
   DOI: 10.1057/palgrave.crr.1550049  
-  Status: 🔍 abstract — **PDF gevraagd**
+  Status: ✅ gelezen (volledige tekst via Springer OA)  
+  PDF: `coombs-2007-scct.pdf` (op te slaan)  
+  **Kernbevinding:** Drie crisisclusters (slachtoffer/onopzettelijk/vermijdbaar) → drie strategiefamilies (deny/diminish/rebuild) + bolstering-strategieën. Crisis responsibility bepaalt welke strategie passend is. Deny nooit mengen met rebuild.
 
 ---
 
@@ -47,9 +49,11 @@
   Status: 🔍 abstract
 
 ### Impression Management & Legitimacy
-- **Aerts, W. & Yan, B. (2015).** Rhetorical impression management in the letter to shareholders and institutional setting: a metadiscourse perspective. *Accounting, Auditing & Accountability Journal, 30*(2), 404–432.  
-  DOI: 10.1108/AAAJ-01-2015-1916  
-  Status: 🔍 abstract — **PDF gevraagd**
+- **Berkin, A., Aerts, W. & Roszkowska-Menkes, M. (2025).** CEO talk under scrutiny: visibility and rhetorical impression management in sustainability narratives. *Accounting, Auditing & Accountability Journal, 38*(8), 1949–...  
+  DOI: 10.1108/AAAJ-08-2024-7297  
+  Status: ✅ gelezen (volledige tekst via UAntwerpen repository)  
+  PDF: `berkin-aerts-2025-ceo-impression-management.pdf` (op te slaan)  
+  **Kernbevinding:** Drie retorische CEO-profielen via LIWC-analyse: Formal-Analytical (afstandelijk, onpersoonlijk), Assertive (positief, leiderschap, prestatienadruk), Defensive (cognitief, hedging, rationalisering). Assertive = enhancement-strategie; Defensive = justification/sensemaking. Taalgebruik is niet neutraal maar strategisch bepaald door zichtbaarheid (sector + ESG-controverses).
 
 - **Berkin, A., Aerts, W. & Roszkowska-Menkes, M. (2025).** CEO talk under scrutiny: visibility and rhetorical impression management in sustainability narratives. *Accounting, Auditing & Accountability Journal, 38*(8), 1949–...  
   DOI: 10.1108/AAAJ-08-2024-7297  
