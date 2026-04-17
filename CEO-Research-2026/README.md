@@ -20,6 +20,11 @@ CEO-Research-2026/
 └── aggregatie.md                      # Overzichtstabel alle analyses
 ```
 
+## Doelpubliek
+
+Onze analyses zijn bedoeld voor: **CEO's, communicatiedirecteurs, leden van de raad van bestuur en aandeelhouders.**
+Zij zoeken inzicht en herkenning — geen academisch jargon, geen peer-reviewed methodologie zichtbaar in de output. Conclusies moeten direct bruikbaar zijn.
+
 ## Protocol
 
 Analyse-aanpak: zie [`../media-analyse-framework/toepassingen/CEO-vertrekken.md`](../media-analyse-framework/toepassingen/CEO-vertrekken.md)  

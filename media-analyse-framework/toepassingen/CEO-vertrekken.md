@@ -1,140 +1,157 @@
-# Protocol: CEO-vertrekken in de Belgische pers
+# Protocol: Mediaberichtgeving over CEO-vertrekken
 
 > Sector-specifieke invulling van het [Media-analyse Framework](../FRAMEWORK.md).  
-> Versie: 1.2 | Opgesteld: 2026-04-17
+> Versie: 2.0 | Opgesteld: 2026-04-17  
+> Doelpubliek van de analyses: CEO's, communicatiedirecteurs, leden RvB, aandeelhouders.  
+> Ze zoeken inzicht en herkenning — geen academisch jargon in de output.
 
 ---
 
-## 1. Scope
+## Theoretische grondslag (intern referentiekader)
 
-**Wat valt in scope:**
-- CEO's en gedelegeerd bestuurders van Belgische bedrijven (privé, beursgenoteerd, overheidsgebonden)
-- Tijdvenster: 12 maanden trailing tenzij anders aangegeven
-- Bronnen: De Tijd, L'Echo, Le Soir, La Libre, RTBF, Trends/Tendances
+Dit protocol is gebouwd op vier gevalideerde modellen. Ze zijn hier zichtbaar als verantwoording; in de analyses zelf vertalen ze naar gewone taal.
 
-**Grensvallen (expliciete beslissing vereist per project):**
-- Voorzitters RvB (geen CEO) → alleen opnemen als ze operationele rol hadden
-- Sportclubs, vzw's → opnemen indien prominente Belgische instelling
-- Belgische topmanagers bij buitenlandse bedrijven → case-by-case
+| Model | Auteur(s) | Wat het bijdraagt |
+|-------|-----------|-------------------|
+| **Framing Theory** | Entman (1993, 2010) | Hoe een tekst een situatie definieert, een oorzaak aanwijst, een oordeel velt en een richting suggereert |
+| **Appraisal Framework** | Martin & White (2005) | Hoe taal evaluatief is: attitude, zekerheid en intensiteit van uitspraken |
+| **Situational Crisis Communication Theory (SCCT)** | Coombs (2007, 2010) | Hoe organisaties verantwoordelijkheid framen bij negatieve events: ontkennen, verminderen of herbouwen |
+| **Impression Management / Legitimacy Theory** | Aerts & Yan (2015), Berkin e.a. (2025) | Institutionele communicatie is strategisch — taal wordt ingezet om legitimiteit te bewaren of te herstellen |
 
----
-
-## 2. Wat zoeken we — de zes dimensies
-
-### Dimensie 1: Timing & moment
-
-*Wanneer verschijnt het artikel in de levenscyclus van het vertrek?*
-
-| Code | Type | Omschrijving | Signaalwoorden |
-|------|------|-------------|----------------|
-| **A** | Aankondiging geplande successie | Vertrek vooraf aangekondigd, CEO nog in functie | "zal vertrekken", "mandaat loopt af", "opvolger gezocht" |
-| **B** | Nieuwsbericht gepland vertrek | Bevestiging van eerder aangekondigde exit | Kort, feitelijk, opvolger vaak al bekend |
-| **C** | Nieuwsbericht plots vertrek | Onverwacht, geen voorbereiding zichtbaar | "verrassend", "onmiddellijk", geen opvolger |
-| **D** | Achtergrondstuk | Context: carrière, beslissingen, bedrijfsgeschiedenis | Lang, meerdere bronnen, historisch |
-| **E** | Commentaar / opiniestuk | Standpunt journalist of expert | Expliciet oordeel, implicaties sector |
-
-Naast het type ook noteren:
-- **Publicatiedatum t.o.v. vertrek:** dag van aankondiging / week erna / maanden later
-- **Is dit het eerste artikel over dit vertrek, of een follow-up?**
+**Kerninzicht voor dit protocol:** een artikel over een CEO-vertrek bevat altijd twee lagen — het feit (wie vertrekt) en het narratief (hoe dat vertrek wordt gekaderd). Beide zijn meetbaar. De spanning tussen die twee is vaak de interessantste data.
 
 ---
 
-### Dimensie 2: Artikeltype
+## Wat we zoeken: zes analysedimensies
 
-Zie codes A–E hierboven. Elk artikel krijgt **één code**.
+### 1. Positie in de narratieve levenscyclus
 
----
+Een CEO-vertrek genereert doorgaans meerdere artikelen over tijd. Elk artikel heeft een positie in die cyclus.
 
-### Dimensie 3: Tone of voice
-
-*Hoe spreekt het artikel over de CEO en het vertrek?*
-
-| Score | Label | Wat het betekent |
-|-------|-------|-----------------|
-| −2 | Sterk kritisch | Expliciet negatief oordeel over CEO of vertrek |
-| −1 | Licht kritisch | Nuance, vraagtekens, voorbehoud |
-|  0 | Neutraal | Feitelijk, geen evaluatief taalgebruik |
-| +1 | Licht positief | Erkentelijkheid, positieve bewoording |
-| +2 | Sterk positief | Uitgesproken lof, eresaluut |
-
-Elke score moet gedragen worden door minstens één citaat (OBS).
+| Code | Moment | Omschrijving |
+|------|--------|-------------|
+| **L1** | Aankondiging | Eerste bericht — vertrek wordt bekendgemaakt, CEO nog in functie |
+| **L2** | Bevestiging | Feitelijk bericht na eerder aangekondigde exit |
+| **L3** | Vertrek zelf | Artikel op of rond de effectieve laatste dag |
+| **L4** | Terugblik | Evaluatief stuk na vertrek: balans van het mandaat |
+| **L5** | Opvolging | Focus op de nieuwe CEO, vertreden figuur als context |
+| **L6** | Erfenis | Maanden later — beslissingen van voorganger als referentie |
 
 ---
 
-### Dimensie 4: Reden van vertrek
+### 2. Artikeltype
 
-*Hoe wordt het vertrek verklaard in het artikel?*
-
-| Code | Reden | Omschrijving |
-|------|-------|-------------|
-| **R1** | Mandaatseinde | Contract liep af, gepland vertrek |
-| **R2** | Performance | Slechte resultaten, aandeelhoudersdruk, targets niet gehaald |
-| **R3** | Visionsverschil | Strategische meningsverschillen met RvB of aandeelhouders |
-| **R4** | Afwerving | CEO vertrekt voor andere functie elders |
-| **R5** | Deontologie | Integriteitskwestie, gedragsprobleem, ethische grens |
-| **R6** | Persoonlijk | Gezondheid, privéredenen, eigen keuze zonder externe druk |
-| **R7** | Onduidelijk | Reden niet vermeld of expliciet vaag gehouden |
-
-Meerdere codes mogelijk. Altijd met bewijs (citaat).
+| Code | Type | Wat het is |
+|------|------|-----------|
+| **A** | Nieuws — gepland | Kort, feitelijk, weinig duiding, vertrek was verwacht |
+| **B** | Nieuws — plots | Kort, feitelijk, geen opvolger, verrassing zichtbaar in toon |
+| **C** | Achtergrond | Lang, meerdere bronnen, carrière en beslissingen centraal |
+| **D** | Commentaar / opinie | Expliciet standpunt van journalist of externe expert |
+| **E** | Interview | CEO of betrokkene aan het woord in eigen stem |
 
 ---
 
-### Dimensie 5: Erkentelijkheid vanuit het bedrijf
+### 3. Toon (Appraisal-gebaseerd)
 
-*Wordt het vertrek positief geframed door het bedrijf zelf?*
+Drie assen, gebaseerd op Martin & White (2005):
 
-Twee vragen:
-1. **Is er een quote van aandeelhouders, RvB of voorzitter?** → ja / nee
-2. **Wat is de toon van die quote?**
+**3a. Attitude** — evalueert de tekst het vertrek of de CEO positief/negatief?
 
-| Code | Toon institutionele reactie |
-|------|----------------------------|
-| **E1** | Warme erkentelijkheid ("we danken X voor zijn uitzonderlijke bijdrage") |
-| **E2** | Formele erkenning ("het bestuur wenst X succes") |
-| **E3** | Neutrale mededeling (geen waardering, enkel feit) |
-| **E4** | Geen quote van bedrijf |
-| **E5** | Afstandelijk of negatief ("met wederzijds akkoord", "na overleg") |
+| Score | Label |
+|-------|-------|
+| −2 | Sterk kritisch |
+| −1 | Licht kritisch / voorbehoud |
+|  0 | Neutraal / feitelijk |
+| +1 | Licht positief / erkentelijk |
+| +2 | Sterk positief / loftuitend |
+
+**3b. Zekerheid (Engagement)** — hoe stellig spreekt de tekst zich uit?
+
+| Score | Label | Voorbeeld |
+|-------|-------|-----------|
+| laag | Speculatief | "zou kunnen", "naar verluidt", "bronnen zeggen" |
+| middel | Voorzichtig | "lijkt", "suggereert", "naar eigen zeggen" |
+| hoog | Stellig | "vertrok omdat", "werd ontslagen", bevestigde feiten |
+
+**3c. Intensiteit (Graduation)** — hoe sterk is het oordeel?
+
+| Score | Label | Voorbeeld |
+|-------|-------|---------|
+| laag | Gedempte toon | "enigszins", "licht", weinig adjectieven |
+| middel | Genormaliseerd | Standaard journalistieke toon |
+| hoog | Versterkt | "verrassend", "spectaculair", "ongezien", "scherp" |
+
+*Elk oordeel op deze assen vereist een citaatanker.*
 
 ---
 
-### Dimensie 6: Opvolging
+### 4. Reden van vertrek — twee lagen
 
-*Wat weten we over de opvolger?*
+De literatuur (Nam, Ronen & Ronen 2018; Akyol & Shabani 2025) toont dat de officiële verklaring en de journalistieke interpretatie structureel kunnen divergeren. Beide worden apart gecodeerd.
+
+**4a. Officiële verklaring** — wat zegt het bedrijf of de CEO zelf?
+
+| Code | Reden |
+|------|-------|
+| **OV1** | Mandaatseinde / natuurlijk verloop |
+| **OV2** | Persoonlijke keuze / eigen initiatief |
+| **OV3** | Strategische heroriëntatie van het bedrijf |
+| **OV4** | Wederzijds akkoord (vaag, geen verdere toelichting) |
+| **OV5** | Geen officiële verklaring |
+
+**4b. Journalistieke interpretatie** — wat suggereert of stelt het artikel?
+
+| Code | Reden |
+|------|-------|
+| **JI1** | Mandaatseinde / gepland |
+| **JI2** | Performanceproblemen (resultaten, aandeelhoudersdruk) |
+| **JI3** | Visionsverschil (strategie, cultuur, richting) |
+| **JI4** | Afwerving / vertrek voor betere kans elders |
+| **JI5** | Deontologische kwestie (integriteit, gedrag) |
+| **JI6** | Politieke of bestuurlijke druk |
+| **JI7** | Onduidelijk / niet geïnterpreteerd |
+
+*Divergentie tussen OV en JI is een analytisch signaal — benoem het expliciet.*
+
+---
+
+### 5. Institutioneel narratief (SCCT-gebaseerd)
+
+Gebaseerd op Coombs' SCCT (2007) en impression management-literatuur: de manier waarop het bedrijf het vertrek communiceert is een bewuste strategie, niet een neutraal feit.
+
+**5a. Is er een institutionele quote?** (aandeelhouder, RvB, voorzitter, woordvoerder)
+→ ja / nee
+
+**5b. Welke communicatiestrategie volgt die quote?**
+
+| Code | Strategie | Typische formulering |
+|------|-----------|---------------------|
+| **N1** | Lof & erkentelijkheid | "We danken X voor zijn uitzonderlijke bijdrage aan..." |
+| **N2** | Formele bevestiging | "Het bestuur heeft kennis genomen van het vertrek van..." |
+| **N3** | Continuïteit benadrukken | "De strategie wordt onverminderd voortgezet..." |
+| **N4** | Toekomstgerichtheid | "We kijken uit naar een nieuwe fase met..." |
+| **N5** | Minimalisering / stilte | Geen quote, of enkel feitelijke mededeling |
+| **N6** | Distantiëring | "Met wederzijds akkoord", geen inhoudelijke toelichting |
+
+*Meerdere codes mogelijk. Noteer de volgorde — wat komt eerst, wat wordt weggelaten.*
+
+---
+
+### 6. Opvolging
 
 | Code | Situatie |
 |------|---------|
-| **O1** | Opvolger bekend + naam vermeld |
-| **O2** | Opvolger intern (geen naam) |
-| **O3** | Opvolger extern gezocht |
+| **O1** | Opvolger bekend, naam vermeld |
+| **O2** | Opvolger intern, naam niet vermeld |
+| **O3** | Externe zoekprocedure gestart |
 | **O4** | Interim aangesteld |
 | **O5** | Geen opvolger vermeld |
 
 ---
 
-## 3. Mappenstructuur per project
+## Analysebestand — template
 
-```
-[project-naam]/
-├── artikelen/       ← ruwe teksten (.md), ongewijzigd
-├── analyses/        ← één analysebestand per artikel
-├── aggregatie.md    ← overzichtstabel alle analyses
-├── [hoofdtabel].md  ← lijst van alle CEO-vertrekken
-└── README.md        ← projectbeschrijving + link naar protocol
-```
-
----
-
-## 4. Bestandsnaamconventie
-
-**Artikelen:** `[publicatie]-[bedrijf]-[naam-ceo]-[datum].md`
-bv. `detijd-proximus-boutin-2025-02.md`
-
-**Analyses:** zelfde naam, in `analyses/`
-bv. `analyses/detijd-proximus-boutin-2025-02.md`
-
----
-
-## 5. Analysebestand — template
+Bestandsnaam: `analyses/[publicatie]-[bedrijf]-[naam-ceo]-[datum].md`
 
 ```markdown
 # Analyse: [artikeltitel]
@@ -142,11 +159,26 @@ bv. `analyses/detijd-proximus-boutin-2025-02.md`
 **Artikel-id:** [publicatie]-[bedrijf]-[naam]-[datum]
 **Bron:** [publicatie]
 **Datum publicatie:** YYYY-MM-DD
-**Artikeltype:** [A / B / C / D / E]
-**Timing t.o.v. vertrek:** [dag van aankondiging / week erna / maanden later / onduidelijk]
-**Eerste artikel of follow-up:** [eerste / follow-up]
-**Ruwe tekst:** `../artikelen/[bestandsnaam].md`
 **Geanalyseerd op:** YYYY-MM-DD
+**Ruwe tekst:** `../artikelen/[bestandsnaam].md`
+
+---
+
+## Classificatie
+
+| Dimensie | Code | Toelichting |
+|----------|------|------------|
+| Positie in levenscyclus | L? | |
+| Artikeltype | A/B/C/D/E | |
+| Toon — Attitude | −2 tot +2 | |
+| Toon — Zekerheid | laag/middel/hoog | |
+| Toon — Intensiteit | laag/middel/hoog | |
+| Officiële verklaring | OV? | |
+| Journalistieke interpretatie | JI? | |
+| Divergentie OV/JI | ja/nee | |
+| Institutioneel narratief | N? | |
+| Institutionele quote aanwezig | ja/nee | |
+| Opvolging | O? | |
 
 ---
 
@@ -157,70 +189,60 @@ bv. `analyses/detijd-proximus-boutin-2025-02.md`
 **Spreker:** [naam/rol of "vertellerstem"]
 **Type:** directe quote / parafrase / vertellerstem
 
-*(herhaal per relevante passage)*
-
 ### Opvallende stiltes
-- [wat ontbreekt — bv. geen reactie CEO, geen quote RvB, opvolger niet vermeld]
+- [wat ontbreekt]
 
 ---
 
 ## Laag 2 — Interpretaties
 
 ### INT-001 (→ OBS-001)
-**Dimensie:** [toon / reden / erkentelijkheid / opvolging / timing]
-**Oordeel:** [label + code]
-**Reden:** [waarom dit oordeel]
-**Alternatief:** [andere plausibele lezing]
-
-*(herhaal per observatie)*
+**Dimensie:** [welke van de zes]
+**Oordeel:** [code + label]
+**Reden:** [waarom]
+**Alternatief:** [andere lezing]
 
 ---
 
 ## Laag 3 — Conclusies
 
 ### C-01
-**Stelling:** [conclusie in één zin]
-**Gedragen door:** INT-001, INT-003
+**Stelling:** [één zin]
+**Gedragen door:** INT-001, INT-002
 **Alternatieve verklaring:** [...]
 
 ---
 
-## Samenvattende scores
-
-| Dimensie | Score / code | Gedragen door |
-|----------|-------------|---------------|
-| Artikeltype | | — |
-| Timing t.o.v. vertrek | | |
-| Tone of voice | | |
-| Reden vertrek | | |
-| Erkentelijkheid bedrijf | | |
-| Opvolging | | |
+## Divergentie-notitie (indien van toepassing)
+[Beschrijf expliciet als officiële verklaring en journalistieke interpretatie uit elkaar lopen]
 ```
 
 ---
 
-## 6. Aggregatietabel — template
+## Aggregatietabel — template
 
 ```markdown
-| Artikel-id | Type | Timing | Toon | Reden | Erkentelijkheid | Opvolging |
-|------------|------|--------|------|-------|-----------------|-----------|
+| Artikel-id | Lifecycle | Type | Attitude | Zekerheid | OV | JI | Divergentie | Narratief | Opvolging |
+|------------|-----------|------|----------|-----------|----|----|-------------|-----------|-----------|
 ```
 
 ---
 
-## 7. Werkproces
+## Werkproces
 
-1. Artikel ontvangen → opslaan als `.md` in `artikelen/`
-2. Analyse uitvoeren (Laag 1 → 2 → 3)
-3. Opslaan in `analyses/`
-4. Rij toevoegen aan `aggregatie.md`
-5. Committen + pushen
-6. Opdrachtgever valideert op GitHub
-7. Feedback → nieuwe commit met reden
+1. Artikel ontvangen → opslaan in `artikelen/` met metadata-header
+2. Classificatietabel invullen (snelle eerste scan)
+3. Observaties noteren (Laag 1)
+4. Interpretaties koppelen (Laag 2)
+5. Conclusies trekken (Laag 3), divergentie benoemen indien aanwezig
+6. Opslaan in `analyses/`, rij toevoegen aan `aggregatie.md`
+7. Committen + pushen
+8. Opdrachtgever valideert — feedback → nieuwe commit
 
 **Één artikel per run. Altijd committen voor het volgende.**
 
 ---
 
 *Protocol op basis van: [Media-analyse Framework](../FRAMEWORK.md)*  
-*Opgesteld door Ray | 2026-04-17*
+*Theoretische grondslag: Entman (1993/2010), Martin & White (2005), Coombs (2007/2010), Aerts & Yan (2015)*  
+*Versie 2.0 | Opgesteld door Ray | 2026-04-17*
