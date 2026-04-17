@@ -1,0 +1,122 @@
+[
+  {
+    "name": "AB INBEV",
+    "isin": "BE0974293251",
+    "symbol": "ABI",
+    "url": "https://live.euronext.com/en/product/equities/BE0974293251-XBRU"
+  },
+  {
+    "name": "ABO GROUP",
+    "isin": "BE0974278104",
+    "symbol": "ABO",
+    "url": "https://live.euronext.com/en/product/equities/BE0974278104-XBRU"
+  },
+  {
+    "name": "ACCENTIS",
+    "isin": "BE0003696102",
+    "symbol": "ACCB",
+    "url": "https://live.euronext.com/en/product/equities/BE0003696102-XBRU"
+  },
+  {
+    "name": "ACKERMANS V.HAAREN",
+    "isin": "BE0003764785",
+    "symbol": "ACKB",
+    "url": "https://live.euronext.com/en/product/equities/BE0003764785-XBRU"
+  },
+  {
+    "name": "ADEC INNOVATIONS",
+    "isin": "NL0015002K91",
+    "symbol": "MLADE",
+    "url": "https://live.euronext.com/en/product/equities/NL0015002K91-MLXB"
+  },
+  {
+    "name": "AEDIFICA",
+    "isin": "BE0003851681",
+    "symbol": "AED",
+    "url": "https://live.euronext.com/en/product/equities/BE0003851681-XBRU"
+  },
+  {
+    "name": "AGEAS",
+    "isin": "BE0974264930",
+    "symbol": "AGS",
+    "url": "https://live.euronext.com/en/product/equities/BE0974264930-XBRU"
+  },
+  {
+    "name": "AGFA-GEVAERT",
+    "isin": "BE0003755692",
+    "symbol": "AGFB",
+    "url": "https://live.euronext.com/en/product/equities/BE0003755692-XBRU"
+  },
+  {
+    "name": "AHOLD DEL",
+    "isin": "NL0011794037",
+    "symbol": "AD",
+    "url": "https://live.euronext.com/en/product/equities/NL0011794037-XAMS"
+  },
+  {
+    "name": "APERAM",
+    "isin": "LU0569974404",
+    "symbol": "APAM",
+    "url": "https://live.euronext.com/en/product/equities/LU0569974404-XAMS"
+  },
+  {
+    "name": "ARGENX SE",
+    "isin": "NL0010832176",
+    "symbol": "ARGX",
+    "url": "https://live.euronext.com/en/product/equities/NL0010832176-XBRU"
+  },
+  {
+    "name": "ASCENCIO",
+    "isin": "BE0003856730",
+    "symbol": "ASCE",
+    "url": "https://live.euronext.com/en/product/equities/BE0003856730-XBRU"
+  },
+  {
+    "name": "ATENOR",
+    "isin": "BE0003837540",
+    "symbol": "ATEB",
+    "url": "https://live.euronext.com/en/product/equities/BE0003837540-XBRU"
+  },
+  {
+    "name": "AVANTIUM",
+    "isin": "NL0015002IE0",
+    "symbol": "AVTX",
+    "url": "https://live.euronext.com/en/product/equities/NL0015002IE0-XAMS"
+  },
+  {
+    "name": "AZELIS GROUP",
+    "isin": "BE0974400328",
+    "symbol": "AZE",
+    "url": "https://live.euronext.com/en/product/equities/BE0974400328-XBRU"
+  },
+  {
+    "name": "BANIMMO A",
+    "isin": "BE0003870871",
+    "symbol": "BANI",
+    "url": "https://live.euronext.com/en/product/equities/BE0003870871-XBRU"
+  },
+  {
+    "name": "BANQUP GROUP",
+    "isin": "BE0974371032",
+    "symbol": "BANQ",
+    "url": "https://live.euronext.com/en/product/equities/BE0974371032-XBRU"
+  },
+  {
+    "name": "BARCO",
+    "isin": "BE0974362940",
+    "symbol": "BAR",
+    "url": "https://live.euronext.com/en/product/equities/BE0974362940-XBRU"
+  },
+  {
+    "name": "BEKAERT",
+    "isin": "BE0974258874",
+    "symbol": "BEKB",
+    "url": "https://live.euronext.com/en/product/equities/BE0974258874-XBRU"
+  },
+  {
+    "name": "BELYSSE GROUP",
+    "isin": "BE0974314461",
+    "symbol": "BELYS",
+    "url": "https://live.euronext.com/en/product/equities/BE0974314461-XBRU"
+  }
+]
