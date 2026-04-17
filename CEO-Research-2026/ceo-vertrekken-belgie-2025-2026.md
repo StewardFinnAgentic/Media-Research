@@ -23,19 +23,8 @@
 | 10 | **Laurence Bovy** | SFPIM | Overheidsholding | Dec 2025 | Niet verlengd / vervangen | De Tijd |
 | 11 | **Giny Boer** | C&A | Retail (NL/BE) | Juli 2024 | Opstap | De Tijd |
 | 12 | **Manu Leroy** | Voetbalbond (RBFA) | Sport | 2025 | Vertrek (interim topman) | De Tijd |
-
----
-
-## Nieuwe namen uit Franstalige pers
-
-| # | Naam | Bedrijf | Sector | Periode | Type | Bron |
-|---|---|---|---|---|---|---|
-| N1 | **Marc Raisière** | Belfius | Bank (staatsbank) | Begin 2026 | Gepland mandaatseinde na recordwinst | RTBF, L'Echo |
-| N2 | **Pierre Locht** | Standard de Liège | Sport | Maart 2025 | Vrijwillig vertrek (overstap naar RBFA) | Le Soir |
-| N3 | **Stijn Bijnens** *(opvolger)* | Proximus | Telecom | Juni 2025 benoemd | Nieuwe CEO (bevestigt Boutin-exit) | Le Soir |
-
-> ⚠️ Marc Raisière = CEO Belfius (niet private banking — dit is een nieuwe, aanvullende entry bovenop Olivier Goerens)
-> ⚠️ Pierre Locht: Standard is geen beursgenoteerd bedrijf; al dan niet in scope naargelang criteria
+| 13 | **Marc Raisière** | Belfius | Bank (staatsbank) | Begin 2026 | Gepland mandaatseinde na recordwinst | RTBF, L'Echo |
+| 14 | **Pierre Locht** | Standard de Liège | Sport | Maart 2025 | Vrijwillig vertrek (overstap naar RBFA) | Le Soir |
 
 ---
 
