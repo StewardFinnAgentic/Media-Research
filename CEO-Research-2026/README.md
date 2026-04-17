@@ -14,12 +14,16 @@
 ```
 CEO-Research-2026/
 ├── README.md                          # Dit bestand
-├── ceo-vertrekken-belgie-2025-2026.md # Gestructureerde lijst van CEO-vertrekken
-└── artikelen/                         # Opgeslagen artikelteksten met metadata
-    ├── artikel-001.md
-    ├── artikel-002.md
-    └── ...
+├── ceo-vertrekken-belgie-2025-2026.md # Hoofdtabel CEO-vertrekken
+├── artikelen/                         # Ruwe artikelteksten (.md)
+├── analyses/                          # Één analysebestand per artikel
+└── aggregatie.md                      # Overzichtstabel alle analyses
 ```
+
+## Protocol
+
+Analyse-aanpak: zie [`../media-analyse-framework/toepassingen/CEO-vertrekken.md`](../media-analyse-framework/toepassingen/CEO-vertrekken.md)  
+Generiek framework: zie [`../media-analyse-framework/FRAMEWORK.md`](../media-analyse-framework/FRAMEWORK.md)
 
 ---
 
