@@ -6,4 +6,4 @@
 
 | Artikel-id | Type | Toon | Zekerheid | Transparantie | Actoren | Reden | Opvolger | Verrassing |
 |------------|------|------|-----------|---------------|---------|-------|----------|------------|
-| *(leeg — analyses starten zodra artikelen beschikbaar zijn)* | | | | | | | | |
+| vrtnws-kbvb-vandendriessche-2024-08-28 | L2 | B | −1 | Hoog | OV4 | JI3+JI5 | Ja | S-N | O5 |
